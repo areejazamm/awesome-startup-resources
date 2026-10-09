@@ -232,6 +232,8 @@ Curated list of resources to start and grow your startup.
 - [Cake Equity](https://www.cakeequity.com/) — #1 rated equity management platform on G2
 - [Qapita](https://www.qapita.com/) — Global equity management with multi-country compliance support
 - [Ledgy](https://www.ledgy.com/) — Equity management for European startups
+- [PrivateTechShares Dilution Calculator](https://privatetechshares.com/startup-dilution-calculator) — Free dilution modeling across funding rounds and option pools; no signup
+- [PrivateTechShares Option Exercise Calculator](https://privatetechshares.com/employee-exit-waterfall-calculator) — Free exercise cost and tax estimation for stock options; no signup
 
 # Legal & Compliance
 
